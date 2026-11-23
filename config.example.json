@@ -1,0 +1,113 @@
+{
+  "accounts": [
+    {
+      "aavid": "<AAVID>",
+      "name": "<ACCOUNT_NAME>"
+    }
+  ],
+  "accounts_video": [
+    {
+      "aavid": "<AAVID>",
+      "name": "<ACCOUNT_NAME>"
+    },
+    {
+      "aavid": "<AAVID>",
+      "name": "<ACCOUNT_NAME>"
+    },
+    {
+      "aavid": "<AAVID>",
+      "name": "<ACCOUNT_NAME>"
+    }
+  ],
+  "accounts_live": [
+    {
+      "aavid": "<AAVID>",
+      "name": "<ACCOUNT_NAME>"
+    },
+    {
+      "aavid": "<AAVID>",
+      "name": "<ACCOUNT_NAME>"
+    },
+    {
+      "aavid": "<AAVID>",
+      "name": "<ACCOUNT_NAME>"
+    },
+    {
+      "aavid": "<AAVID>",
+      "name": "<ACCOUNT_NAME>"
+    },
+    {
+      "aavid": "<AAVID>",
+      "name": "<ACCOUNT_NAME>"
+    },
+    {
+      "aavid": "<AAVID>",
+      "name": "<ACCOUNT_NAME>"
+    }
+  ],
+  "search": "xxb",
+  "kw_exclusive": "<HOST_NAME>",
+  "kw_shared": "小学专项,小学2,小学二",
+  "host": "<HOST_NAME>",
+  "status": "全部（包含已删除）",
+  "date_mode": "本月",
+  "date_start": "2026-11-01",
+  "date_end": "2026-11-22",
+  "doc_url": "<YOUR_DOC_URL>",
+  "doc_file_id": "MSpjjaBlXyXV",
+  "doc_sheet_id": "BB08J2",
+  "tdoc_token": "<YOUR_DOC_TOKEN>",
+  "kdocs_url": "",
+  "output_dir": "<LOCAL_PATH>",
+  "an_url": "<YOUR_DOC_URL>",
+  "an_dir_excel": "<LOCAL_PATH>",
+  "an_dir_report": "<LOCAL_PATH>",
+  "an_range": "昨天",
+  "an_need": "先汇总一下他们这4周的业绩，再分别列出这4个时间段内他们的业绩，分析每个人这四周的GMV波动，找出所有4周业绩依次递减的人，分析造成这一现象的原因，并提出针对性的建议",
+  "an_formats": [
+    "pdf"
+  ],
+  "an_mode": "multi",
+  "an_segs": [
+    {
+      "d1": "2026-10-05",
+      "d2": "2026-10-11"
+    },
+    {
+      "d1": "2026-10-12",
+      "d2": "2026-10-18"
+    },
+    {
+      "d1": "2026-10-19",
+      "d2": "2026-10-25"
+    },
+    {
+      "d1": "2026-10-26",
+      "d2": "2026-11-01"
+    }
+  ],
+  "an_tpl": [
+    {
+      "id": "<ACCOUNT_ID>",
+      "name": "<ACCOUNT_NAME>",
+      "text": "先汇总一下他们这4周的业绩，再分别列出这4个时间段内他们的业绩，分析每个人这四周的GMV波动，找出所有4周业绩依次递减的人，分析造成这一现象的原因，并提出针对性的建议"
+    }
+  ],
+  "mo_year": "2026",
+  "mo_month": "10",
+  "mo_search": "dxb",
+  "mo_status": "全部（包含已删除）",
+  "mo_kw_excl": "陈永前",
+  "mo_kw_shared": "测试",
+  "mo_kw_special": "",
+  "mo_entry_url": "",
+  "mo_live_tuwen_personal": "no",
+  "mo_host": "陈永前",
+  "mo_doc_url": "<YOUR_DOC_URL>",
+  "mo_doc_title": "2026.10XXX数据汇总",
+  "keywords": "",
+  "mo_file_id": "MRkrHNmmVxtn",
+  "mo_sheet_normal": "xwSTCr",
+  "mo_sheet_special": "TKnuAU",
+  "mo_sheet_live": "DfFVA7"
+}

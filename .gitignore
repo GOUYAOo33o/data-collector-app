@@ -1,0 +1,15 @@
+# 运行时凭据与本地配置（绝不提交）
+config.json
+config.json.bak*
+*.token
+doubao_session.json
+
+# 运行时数据
+logs/
+输出/
+*.log
+
+# 打包运行库（体积大，由作者另行分发）
+_internal/
+ui/
+*.exe
